@@ -138927,5 +138927,61 @@
       "small": "https://images.scrydex.com/pokemon/me2pt5-295/small",
       "large": "https://images.scrydex.com/pokemon/me2pt5-295/large"
     }
+  },
+  {
+    "id": "po-1",
+    "name": "Mega Skarmory ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "260",
+    "types": [
+      "Metal"
+    ],
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Sonic Ripper",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Shuffle all Energy attached to this Pokémon into your deck. This attack does 220 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "1",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      359
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "I",
+    "images": {
+      "small": "https://raw.githubusercontent.com/SinjohRuins/ptcg-jsons/refs/heads/main/megaskarmory.png",
+      "large": "https://raw.githubusercontent.com/SinjohRuins/ptcg-jsons/refs/heads/main/megaskarmory.png"
+    }
   }
 ]
