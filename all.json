@@ -139046,5 +139046,59 @@
       "small": "https://raw.githubusercontent.com/SinjohRuins/ptcg-jsons/refs/heads/main/meowthex.png",
       "large": "https://raw.githubusercontent.com/SinjohRuins/ptcg-jsons/refs/heads/main/meowthex.png"
     }
+  },
+  
+    "id": "po-1",
+    "name": "Mega Starmie ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "330",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Jet Blow",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "1",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      359
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "I",
+    "images": {
+      "small": "https://raw.githubusercontent.com/SinjohRuins/ptcg-jsons/refs/heads/main/megastarmie.png",
+      "large": "https://raw.githubusercontent.com/SinjohRuins/ptcg-jsons/refs/heads/main/megastarmie.png"
+    }
   }
 ]
