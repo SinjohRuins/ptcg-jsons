@@ -139120,8 +139120,8 @@
     },
     "regulationMark": "I",
     "images": {
-      "small": "https://github.com/SinjohRuins/ptcg-jsons/blob/main/telepath.png",
-      "large": "https://github.com/SinjohRuins/ptcg-jsons/blob/main/telepath.png"
+      "small": "https://raw.githubusercontent.com/SinjohRuins/ptcg-jsons/refs/heads/main/telepath.png",
+      "large": "https://raw.githubusercontent.com/SinjohRuins/ptcg-jsons/refs/heads/main/telepath.png"
     }
   }
 ]
