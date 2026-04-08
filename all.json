@@ -145086,5 +145086,29 @@
       "small": "https://images.scrydex.com/pokemon/me3-124/small",
       "large": "https://images.scrydex.com/pokemon/me3-124/large"
     }
+  },
+  {
+    "id": "me5",
+    "name": "Special Red Card",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You may use this card only if your opponent has 3 or fewer Prize cards remaining. Your opponent shuffles their hand and puts it on the bottom of their deck. Then, they draw 3 cards. ",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "1072",
+    "rarity": "Uncommon",
+    "legalities": {
+      "standard": "Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "I",
+    "images": {
+      "small": "https://github.com/SinjohRuins/ptcg-jsons/blob/31eb39ac7750474c47fbf6c9b952a18fe8b7cd49/redcard.png?raw=true",
+      "large": "https://github.com/SinjohRuins/ptcg-jsons/blob/31eb39ac7750474c47fbf6c9b952a18fe8b7cd49/redcard.png?raw=true"
+    }
   }
 ]
