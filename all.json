@@ -145111,7 +145111,8 @@
       "large": "https://github.com/SinjohRuins/ptcg-jsons/blob/31eb39ac7750474c47fbf6c9b952a18fe8b7cd49/redcard.png?raw=true"
     }
   },
-  "id": "sv5-5",
+  {
+    "id": "me5",
     "name": "Beedrill ex",
     "supertype": "Pokémon",
     "subtypes": [
@@ -145160,4 +145161,5 @@
       "small": "https://pokemonproxies.com/assets/4a-003-Beedrill_ex-ChRtpa6A.png",
       "large": "https://pokemonproxies.com/assets/4a-003-Beedrill_ex-ChRtpa6A.png"
     }
+  }
 ]
