@@ -145130,7 +145130,7 @@
           "Grass"
         ],
         "convertedEnergyCost": 1,
-        "damage": "110",
+        "damage": "110x",
         "text": "This attack does 110 damage for each of your Beedrill and Beedrill ex in play."
       }
     ],
