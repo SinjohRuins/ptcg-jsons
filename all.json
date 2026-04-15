@@ -145118,11 +145118,11 @@
     "subtypes": [
       "Stage 2"
     ],
-    "hp": "150",
+    "hp": "310",
     "types": [
       "Grass"
     ],
-    "evolvesFrom": "Nuzleaf",
+    "evolvesFrom": "Kakuna",
     "attacks": [
       {
         "name": "Bee Rumble",
@@ -145130,7 +145130,7 @@
           "Grass"
         ],
         "convertedEnergyCost": 1,
-        "damage": "110x",
+        "damage": "110",
         "text": "This attack does 110 damage for each of your Beedrill and Beedrill ex in play."
       }
     ],
