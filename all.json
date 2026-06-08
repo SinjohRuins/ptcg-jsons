@@ -151457,5 +151457,413 @@
       "small": "https://images.scrydex.com/pokemon/me4-122/small",
       "large": "https://images.scrydex.com/pokemon/me4-122/large"
     }
+  },
+{
+    "id": "me5-1",
+    "name": "Drilbur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [
+      "Excadrill"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "85",
+    "artist": "Kariya",
+    "rarity": "Common",
+    "flavorText": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+    "nationalPokedexNumbers": [
+      529
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-044-Drilbur-BWn9LOxW.png",
+      "large": "https://pokemonproxies.com/assets/5a-044-Drilbur-BWn9LOxW.png"
+    }
+  },
+  {
+    "id": "me5-2",
+    "name": "Mega Excadrill ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "MEGA",
+      "ex"
+    ],
+    "hp": "330",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Drilbur",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Undermine",
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "90",
+        "text": "Discard the top 2 cards of your opponent's deck."
+      },
+      {
+        "name": "Maximum Drilling",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200+",
+        "text": "If this Pokémon has at least 2 extra Energy attached (in addition to this attack's cost), this attack does 130 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "21",
+    "rarity": "Double Rare",
+    "nationalPokedexNumbers": [
+      121
+    ],
+    "legalities": {
+      "standard": "Not Legal",
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "J",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-063-Mega_Excadrill_ex-BSrzXVyW.png",
+      "large": "https://pokemonproxies.com/assets/5a-063-Mega_Excadrill_ex-BSrzXVyW.png"
+    }
+  },
+  {
+    "id": "me5-3",
+    "name": "Lampent",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Litwick",
+    "evolvesTo": [
+      "Chandelure"
+    ],
+    "attacks": [
+      {
+        "name": "Returning Lights",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 3 Lampent and put them onto your Bench. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "37",
+    "artist": "Rond",
+    "rarity": "Common",
+    "flavorText": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+    "nationalPokedexNumbers": [
+      608
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-035-Lampent-GF9o1mzq.png",
+      "large": "https://pokemonproxies.com/assets/5a-035-Lampent-GF9o1mzq.png"
+    }
+  },
+  {
+    "id": "me5-4",
+    "name": "Mega Chandelure ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "350",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Lampent",
+    "abilities": [
+      {
+        "name": "Cursed Flame",
+        "text": "Your opponent's Active Pokémon's Retreat Cost is Colorless more.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Phantom Maze",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "130+",
+        "text": "This attack does 50 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "38",
+    "artist": "saino misaki",
+    "rarity": "Rare",
+    "flavorText": "It absorbs spirits, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+    "nationalPokedexNumbers": [
+      609
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-036-Mega_Chandelure_ex-CnBJabW2.png",
+      "large": "https://pokemonproxies.com/assets/5a-036-Mega_Chandelure_ex-CnBJabW2.png"
+    }
+  },
+  {
+    "id": "me5-5",
+    "name": "Sinistcha",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Poltchageist",
+    "abilities": [
+      {
+        "name": "Ghost Veil",
+        "text": "Prevent all effects of attacks and Abilities from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Matcha Spin",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "If you have 6 or more Pokémon with the Phantom Hide Ability in your discard pile, place 4 damage counters on each of your opponent's Pokémon. "
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "22",
+    "artist": "Kouki Saitou",
+    "rarity": "Rare",
+    "nationalPokedexNumbers": [
+      1013
+    ],
+    "flavorText": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-006-Sinistcha-CW0VLoKj.png",
+      "large": "https://pokemonproxies.com/assets/5a-006-Sinistcha-CW0VLoKj.png"
+    }
+  },
+  {
+    "id": "me5-6",
+    "name": "Banette",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Shuppet",
+    "abilities": [
+      {
+        "name": "Ghost Veil",
+        "text": "Prevent all effects of attacks and Abilities from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Doll Catch",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "80",
+        "text": "You may search your deck for a card and put it into your hand. Then, shuffle your deck. "
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "60",
+    "rarity": "Uncommon",
+    "nationalPokedexNumbers": [
+      354
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "I",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-032-Banette-CC7vl8Yv.png",
+      "large": "https://pokemonproxies.com/assets/5a-032-Banette-CC7vl8Yv.png"
+    }
+  },
+  {
+    "id": "me5-7",
+    "name": "Gwynn",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard up to 2 Pokémon that don't have a Rule Box from your hand. Draw 3 cards for each card you discarded in this way.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "number": "142",
+    "artist": "En Morikura",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-078-Gwynn-dGrlLEzE.png",
+      "large": "https://pokemonproxies.com/assets/5a-078-Gwynn-dGrlLEzE.png"
+    }
+  },
+  {
+    "id": "me5-8",
+    "name": "Dark Bell",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Both Active Pokémon (excluding Darkness Pokémon) are now Confused.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "143",
+    "artist": "Studio Bora Inc.",
+    "rarity": "Uncommon",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-070-Dark_Bell-IPVeNgOp.png",
+      "large": "https://pokemonproxies.com/assets/5a-070-Dark_Bell-IPVeNgOp.png"
+    }
   }
 ]
