@@ -151750,8 +151750,8 @@
     },
     "regulationMark": "H",
     "images": {
-      "small": "https://pokemonproxies.com/assets/5a-006-Sinistcha-CW0VLoKj.png",
-      "large": "https://pokemonproxies.com/assets/5a-006-Sinistcha-CW0VLoKj.png"
+      "small": "https://pokemonproxies.com/assets/5a-006-Sinistcha-o8UGGCID.png",
+      "large": "https://pokemonproxies.com/assets/5a-006-Sinistcha-o8UGGCID.png"
     }
   },
   {
@@ -151812,8 +151812,8 @@
     },
     "regulationMark": "I",
     "images": {
-      "small": "https://pokemonproxies.com/assets/5a-032-Banette-CC7vl8Yv.png",
-      "large": "https://pokemonproxies.com/assets/5a-032-Banette-CC7vl8Yv.png"
+      "small": "https://pokemonproxies.com/assets/5a-032-Banette-a1IohbrW.png",
+      "large": "https://pokemonproxies.com/assets/5a-032-Banette-a1IohbrW.png"
     }
   },
   {
@@ -151864,6 +151864,62 @@
     "images": {
       "small": "https://pokemonproxies.com/assets/5a-070-Dark_Bell-IPVeNgOp.png",
       "large": "https://pokemonproxies.com/assets/5a-070-Dark_Bell-IPVeNgOp.png"
+    }
+  },
+  {
+    "id": "me5-9",
+    "name": "Dhelmise",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "140",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Vengeful Anchor",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If you have 4 or more Pokémon with the Hide 'n' Sneak Ability in your discard pile, this attack does 140 more damage. "
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "70",
+    "rarity": "Common",
+    "nationalPokedexNumbers": [
+      781
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://pokemonproxies.com/assets/5a-037-Dhelmise-BMPrMgp-.png",
+      "large": "https://pokemonproxies.com/assets/5a-037-Dhelmise-BMPrMgp-.png"
     }
   }
 ]
